@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name="py_pet",
+setup(name="o",
       version='0.1',
       description='Tamagotchi-esque package, doing this to learn more about python project structure',
       url='https://github.com/justsomeonenamedalex/py_pet',
